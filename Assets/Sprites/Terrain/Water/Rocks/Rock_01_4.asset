@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Rock_01_4
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 568031078, guid: b994fe8b0c7f14c7080b901eadedabbf, type: 3}
+  - {fileID: -698238510, guid: b994fe8b0c7f14c7080b901eadedabbf, type: 3}
+  - {fileID: -671550132, guid: b994fe8b0c7f14c7080b901eadedabbf, type: 3}
+  - {fileID: -1222149049, guid: b994fe8b0c7f14c7080b901eadedabbf, type: 3}
+  - {fileID: -1012248022, guid: b994fe8b0c7f14c7080b901eadedabbf, type: 3}
+  - {fileID: 1117201636, guid: b994fe8b0c7f14c7080b901eadedabbf, type: 3}
+  - {fileID: -316633501, guid: b994fe8b0c7f14c7080b901eadedabbf, type: 3}
+  - {fileID: -1346091687, guid: b994fe8b0c7f14c7080b901eadedabbf, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
